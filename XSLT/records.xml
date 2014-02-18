@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<records>
+  <record>
+    <id>1</id>
+    <name>Bill Brown</name>
+    <slug>bill-brown</slug>
+    <created_on></created_on>
+    <created_by></created_by>
+    <changed_on></changed_on>
+    <changed_by></changed_by>
+  </record>
+  <record>
+    <id>2</id>
+    <name>Sara Dorman</name>
+    <slug>sara-dorman</slug>
+    <created_on></created_on>
+    <created_by></created_by>
+    <changed_on></changed_on>
+    <changed_by></changed_by>
+  </record>
+  <record>
+    <id>3</id>
+    <name>Katie Koonce</name>
+    <slug>katie-koonce</slug>
+    <created_on></created_on>
+    <created_by></created_by>
+    <changed_on></changed_on>
+    <changed_by></changed_by>
+  </record>
+</records>
